@@ -10,7 +10,7 @@
       "tailwindcss": "^3.1.8",
       "shadcn-ui": "^0.0.1",
       "recharts": "^2.1.9",
-      "lucide-react": "^0.0.8",
+      "lucide-react": "latest",
       "framer-motion": "^10.12.3",
       "heroicons": "^1.0.6"
     },
